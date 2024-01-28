@@ -23,7 +23,7 @@ A fully-functional point-of-sale-system created for the *Vittles Restaurant Grou
 ### <span style="color:#800000">Screenshots</span>
 
 <!--![Login Page](images/logo1.jpg)-->
-<img src="images/login.jpg" width="200">
+<img src="assets/login.jpg" width="200">&nbsp;<img src="assets/job_login.jpg" width="200">
 
 
 
