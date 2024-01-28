@@ -9,7 +9,7 @@ A fully-functional point-of-sale-system created for the *Vittles Restaurant Grou
 > Click here for [Video Demo](https://www.loom.com/share/fbf197d4fa9a4a728485856623861eb3?sid=bab0854c-5b9b-44b9-b749-d977d2704234).
 
 ## Technical Specifications
-### <span style="color:#4a8685">Programming Languages | Environments</span>
+### <span style="color:#800000">Programming Languages | Environments</span>
 
 * HTML
 * CSS
