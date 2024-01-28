@@ -21,9 +21,9 @@ A fully-functional point-of-sale-system created for the *Vittles Restaurant Grou
 
 ## Program Walkthrough: A Brief Summary
 ### <span style="color:#800000">Screenshots</span>
-*User will first log into the Vittles POS system by entering their unique credentials and choose appropriate job position*<br>
+*User will first log into the Vittles POS system by entering their unique credentials and choose appropriate job position*<br><br>
 <!--![Login Page](images/logo1.jpg)-->
-<img src="assets/login.jpg" width="490">&nbsp;&nbsp;<img src="assets/job_login.jpg" width="490">
+<img src="assets/login.jpg" width="485">&nbsp;&nbsp;<img src="assets/job_login.jpg" width="485">
 
 
 
