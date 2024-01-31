@@ -43,10 +43,10 @@ A fully-functional point-of-sale-system created for the *Vittles Restaurant Grou
 
 * Customer Data Management
 * Employee Record Handling
-* Account Administration
-* Product Ordering & Inventory
-* Menu Item Data Management
-* Order Transaction Operations
+* Personal Account Administration
+* Menu Item Inventory Tracking
+* Transactional Operations
+* Searting Chart Blueprint Builds
 
 
 
