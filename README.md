@@ -52,6 +52,8 @@ A fully-functional point-of-sale-system created for the *Vittles Restaurant Grou
 * Transactional Operations Handling
 * Seating Chart Blueprint Building
 
+> Click here for [Project Source Code](https://github.com/Mlamelza/restaurant-pos-system/tree/main).
+
 
 
 
