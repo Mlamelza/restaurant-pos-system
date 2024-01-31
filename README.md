@@ -35,18 +35,18 @@ A fully-functional point-of-sale-system created for the *Vittles Restaurant Grou
 <img src="assets/add_job.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_location.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_permssion.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_table.jpg" width="235">
 <br><br>
 *Some of the operations that will be permitted include the following:*<br>
-
+<!--
  | Customer Data Management      | Employee Record Handling | Personal Account Administration     |
 | :---        |    :----:   |          ---: |
 | Product Inventory Tracking      | Menu Item Data Management       | Customer Order Transactions   |
-| Editing Employee Job Data  | Seating Chart Blueprint Build      | Customer Order Handling      |
+| Editing Employee Job Data  | Seating Chart Blueprint Build      | Customer Order Handling      |-->
 
 * Customer Data Management
 * Employee Record Handling
-* Product Inventory Tracking
+* Account Administration
+* Product Ordering & Inventory
 * Menu Item Data Management
-* Personal Account Admin
-* Customer Order Management
+* Order Transaction Operations
 
 
 
