@@ -37,10 +37,10 @@ A fully-functional point-of-sale-system created for the *Vittles Restaurant Grou
 *Some of the operations that will be permitted include the following:*<br>
  Customer Data Management | Employee Record Handling | Product Inventory Tracking | Adding & Editing Menu Item Data |
 
- | Customer Data Management      | Employee Record Handling | Product Inventory     |
+<!-- | Customer Data Management      | Employee Record Handling | Product Inventory     |-->
 | :---        |    :----:   |          ---: |
-| Customer Data Management       | Employee Record Handling       | Product Inventory   |
-| Paragraph   | Text        | And more      |
+| Customer Data Management       | Employee Record Handling       | Product Inventory Tracking   |
+| Menu Item Data Regulation  | Personal Account Admin       | Customer Order Handling      |
 
 * Customer Data Management
 * Employee Record Handling
