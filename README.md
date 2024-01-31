@@ -31,10 +31,13 @@ A fully-functional point-of-sale-system created for the *Vittles Restaurant Grou
 <!--
 <img src="assets/edit_customer.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_item.jpg" width="235">&nbsp;&nbsp;<img src="assets/edit_employee.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_special_item.jpg" width="235">-->
 <br><br>
-<img src="assets/add_item.jpg" width="485">&nbsp;&nbsp;<img src="assets/add_special_item.jpg" width="485">
-<!--<img src="assets/add_job.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_location.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_permssion.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_table.jpg" width="235">-->
+<img src="assets/add_item.jpg" width="485">&nbsp;&nbsp;<img src="assets/add_special_item.jpg" width="485"><br><br>
+<img src="assets/add_job.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_location.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_permssion.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_table.jpg" width="235">
 <br><br>
 *Some of the operations that will be permitted include the following:*<br>
+| Customer Data Management | Employee Record Handling |
+| Product Inventory Tracking | Adding & Editing Menu Item Data |
+
 * Customer Data Management
 * Employee Record Handling
 * Product Inventory Tracking
