@@ -27,7 +27,7 @@ A fully-functional point-of-sale-system created for the *Vittles Restaurant Grou
 <br>
 
 *Once credentials have been validated, the user will be able to perform a number of operations, dependent upon permission level.*<br><br>
-<img src="assets/edit_customer.jpg" width="240">&nbsp;&nbsp;<img src="assets/add_item.jpg" width="240">&nbsp;&nbsp;<img src="assets/edit_employee.jpg" width="240">&nbsp;&nbsp;<img src="assets/add_special_item.jpg" width="240">
+<img src="assets/edit_customer.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_item.jpg" width="235">&nbsp;&nbsp;<img src="assets/edit_employee.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_special_item.jpg" width="235">
 <br>
 
 
