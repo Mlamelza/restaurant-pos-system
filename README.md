@@ -54,7 +54,10 @@ A fully-functional point-of-sale-system created for the *Vittles Restaurant Grou
 
 *Shown below is the seating chart created dynamically from the database, thus allowing the user to create an order for the customer.*<br><br>
 <!--![Login Page](images/logo1.jpg)-->
-<img src="assets/seating_chart.JPG"><br><br><img src="assets/place_order.JPG">
+<img src="assets/seating_chart.JPG"><br>
+___
+
+<br><img src="assets/place_order.JPG">
 <br>
 
   
