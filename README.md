@@ -56,6 +56,7 @@ A fully-functional point-of-sale-system created for the *Vittles Restaurant Grou
 <!--![Login Page](images/logo1.jpg)-->
 <img src="assets/seating_chart.JPG">
 ___
+<br>
 
 <img src="assets/place_order.JPG">
 <br>
