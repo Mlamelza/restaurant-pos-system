@@ -52,6 +52,11 @@ A fully-functional point-of-sale-system created for the *Vittles Restaurant Grou
 * Transactional Operations Handling
 * Seating Chart Blueprint Building
 
+*Shown below is the seating chart created dynamically from the database, then allowing the user to place an order.*<br><br>
+<!--![Login Page](images/logo1.jpg)-->
+<img src="assets/seating_chart.jpg" width="485">&nbsp;&nbsp;<img src="assets/place_order.jpg" width="485">
+<br>
+
   
 Take a look at my [Project Source Code](https://github.com/Mlamelza/restaurant-pos-system/tree/main).
 
