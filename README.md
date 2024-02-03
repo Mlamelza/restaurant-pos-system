@@ -1,4 +1,4 @@
-# <span style="color:#800000">Vittles Restaurant Group Point-of-Sale System</span>
+# <span style="color:#21618C">Vittles Restaurant Group Point-of-Sale System</span>
 
 <p style="text-align:center"><img style ="align:center" src="vittles_banner.jpg"></p>
 
